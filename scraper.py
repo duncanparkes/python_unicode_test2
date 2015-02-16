@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import scraperwiki
 
 scraperwiki.sqlite.save(
